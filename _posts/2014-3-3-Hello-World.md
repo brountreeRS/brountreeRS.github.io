@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Well I Should Probably Talk About Something
+published: true
 ---
 
-++About Myself
+## About Myself
 
 Experienced software executive leading multiple teams building applications using cutting edge web technologies. Experience building some of the largest consumer web properties in the world.
 
