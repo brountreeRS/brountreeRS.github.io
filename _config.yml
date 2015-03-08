@@ -18,15 +18,15 @@ avatar: https://www.dropbox.com/s/76cei1if89zje8i/headshot.svg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: brian@donagher.org
   facebook:
-  flickr:
-  github: barryclark/jekyll-now
+  flickr: thepixelarchitect
+  github: github.com/brountreeRS
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: pixelarchitect
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
 
@@ -39,7 +39,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://reformedcoder.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
